@@ -14,7 +14,7 @@ This stack provides the following services:
 #### DNS [rancher/dns:v0.17.1]
 * Small bug fixes
 
-#### Network Manager [rancher/network-manager:v0.7.20]
+#### Network Manager [holimetrix2/network-manager:v0.7.21-hmx]
 * Fixes issue during startup of healthcheck not able to reach server.
 * Fixes issue with deletiion of conntrack entries related to kubernetes cluster IP subnet.
 
